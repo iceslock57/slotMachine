@@ -1,0 +1,22 @@
+#BlueJ class context
+#Sun Aug 23 20:56:59 COT 2026
+comment0.target=Symbol
+comment0.text=\r\n symbol es nuestra clase base, se encarga de hacer todos los simbolos que vamos a ver\r\n en el slotMachine \r\n
+comment1.params=color x y
+comment1.target=Symbol(java.lang.String, int, int)
+comment1.text=\r\n Constructor de los objetos para symbol, crea el objeto sirviendose de Circle\r\n
+comment2.target=java.lang.String getColor()
+comment2.text=\r\n retorna el color que tenga el objeto\r\n
+comment3.params=x y
+comment3.target=void setPosition(int, int)
+comment3.text=\r\n cambio de coordenadas de posici\u00F3n para el objeto y verifica que el objeto\r\n no sea null para hacer el movimiento\r\n
+comment4.target=void makeVisible()
+comment4.text=\r\n Hace visible el objeto en el canvas\r\n
+comment5.target=void makeInvisible()
+comment5.text=\r\n hace invisible el objeto en el canvas\r\n
+comment6.params=change
+comment6.target=void changeColor(java.lang.String)
+comment6.text=\r\n permite al usuario modificar el color del objeto\r\n
+comment7.target=boolean isVisible()
+comment7.text=\ \r\n Dice si simbolo esta visible\r\n
+numComments=8

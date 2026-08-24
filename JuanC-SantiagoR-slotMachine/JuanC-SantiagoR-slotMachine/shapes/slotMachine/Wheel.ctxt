@@ -1,0 +1,28 @@
+#BlueJ class context
+#Sun Aug 23 21:11:14 COT 2026
+comment0.target=Wheel
+comment0.text=\r\n Representa una de las ruedas de la maquina tragamonedas\r\n una rueda contiene varios simbolos y mantiene uno de ellos\r\n como el simbolo actualmente mostrado\r\n @author Juan Felipe Carvajal Moyano, Santiago Rodriguez Reyes\r\n \r\n
+comment1.params=x y
+comment1.target=Wheel(int, int)
+comment1.text=\r\n Crea una rueda vacia\r\n
+comment10.target=java.lang.String[] getSymbols()
+comment10.text=\r\n Obtiene los colores de los simbolos de la rueda\r\n
+comment2.params=symbol
+comment2.target=void addSymbol(Symbol)
+comment2.text=\r\n Agrega un simbolo a la rueda\r\n
+comment3.params=color
+comment3.target=boolean removeSymbol(java.lang.String)
+comment3.text=\r\n Elimina un simbolo de la rueda\r\n
+comment4.target=void spin()
+comment4.text=\r\n Gira la rueda y selecciona aleatoriamente uno de sus simbolos\r\n
+comment5.target=void updateVisibleSymbol()
+comment5.text=\r\n Actualiza el s\u00EDmbolo que debe verse.\r\n
+comment6.target=java.lang.String getCurrentColor()
+comment6.text=\r\n Obtiene el color del simbolo actualmente mostrado\r\n
+comment7.target=void makeVisible()
+comment7.text=\r\n Hace visible la rueda\r\n
+comment8.target=void makeInvisible()
+comment8.text=\r\n Hace invisible la rueda\r\n
+comment9.target=int symbolCount()
+comment9.text=\r\n Obtiene el numero de simbolos de la rueda\r\n
+numComments=11
