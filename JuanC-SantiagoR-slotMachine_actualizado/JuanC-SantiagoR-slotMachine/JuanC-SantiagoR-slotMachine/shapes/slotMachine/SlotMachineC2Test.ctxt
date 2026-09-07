@@ -1,0 +1,23 @@
+#BlueJ class context
+#Sun Sep 06 21:02:37 COT 2026
+comment0.target=SlotMachineC2Test
+comment0.text=\r\n Pruebas unitarias del ciclo 2 de SlotMachine\r\n @author Juan Felipe Carvajal Moyano, Santiago Rodriguez Reyes\r\n
+comment1.target=void setUp()
+comment1.text=\r\n Prepara una maquina con tres ruedas y tres simbolos diferentes.\r\n
+comment2.target=void swapShouldExchangeWheels()
+comment2.text=\r\n Prueba que se puedan intercambiar dos ruedas.\r\n
+comment3.target=void lockedWheelShouldNotSpin()
+comment3.text=\r\n Una rueda fijada no debe girar.\r\n
+comment4.target=void unlockedWheelShouldBeAllowedToSpin()
+comment4.text=\r\n Una rueda soltada puede volver a girar.\r\n
+comment5.target=void spinSetSymbolsShouldSetConfiguration()
+comment5.text=\r\n Una configuracion valida debe poder establecerse.\r\n
+comment6.target=void isJackpotShouldBeTrueWhenAllSymbolsAreEqual()
+comment6.text=\r\n Jackpot cuando todas las ruedas tienen el mismo simbolo.\r\n
+comment7.target=void isJackpotShouldBeFalseWhenSymbolsAreDifferent()
+comment7.text=\r\n No debe existir jackpot si las ruedas muestran simbolos diferentes.\r\n
+comment8.target=void invalidConfigurationShouldNotChangeMachine()
+comment8.text=\r\n Una configuracion con una cantidad incorrecta de simbolos no debe modificar la maquina\r\n
+comment9.target=void lockInvalidWheelShouldNotChangeConfiguration()
+comment9.text=\r\n Una rueda inexistente no debe poder bloquearse.\r\n
+numComments=10
