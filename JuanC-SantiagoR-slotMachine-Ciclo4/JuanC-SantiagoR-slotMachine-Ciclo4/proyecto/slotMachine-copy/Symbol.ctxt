@@ -1,0 +1,22 @@
+#BlueJ class context
+#Tue Oct 20 17:25:16 COT 2026
+comment0.target=Symbol
+comment0.text=\r\n Clase base para los simbolos de la maquina.\r\n
+comment1.params=color x y
+comment1.target=Symbol(java.lang.String, int, int)
+comment10.target=int getSymbolSize()
+comment11.target=boolean isWild()
+comment12.params=x y
+comment12.target=Symbol copyAt(int, int)
+comment2.target=java.lang.String getColor()
+comment3.params=x y
+comment3.target=void setPosition(int, int)
+comment4.target=void makeVisible()
+comment5.target=void makeInvisible()
+comment6.target=boolean isVisible()
+comment7.params=newColor
+comment7.target=void changeColor(java.lang.String)
+comment8.target=void onSelected()
+comment9.params=newSize
+comment9.target=void resize(int)
+numComments=13

@@ -1,0 +1,7 @@
+#BlueJ class context
+#Tue Oct 20 18:09:23 COT 2026
+comment0.target=SlotMachineContestTest
+comment1.target=void setUp()
+comment2.target=void testSolveReturnsValidResult()
+comment3.target=void testSimulateExecution()
+numComments=4

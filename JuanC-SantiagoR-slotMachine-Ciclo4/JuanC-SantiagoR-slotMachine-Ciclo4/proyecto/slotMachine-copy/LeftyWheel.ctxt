@@ -1,0 +1,9 @@
+#BlueJ class context
+#Tue Oct 20 17:31:21 COT 2026
+comment0.target=LeftyWheel
+comment0.text=\r\n Rueda que, al girar, copia el estado de la rueda de su izquierda\r\n \r\n @author Juan Cavajal Moyano-Santiago Rodriguez Reyes\r\n
+comment1.params=x y
+comment1.target=LeftyWheel(int, int)
+comment2.params=leftWheel
+comment2.target=boolean spin(Wheel)
+numComments=3

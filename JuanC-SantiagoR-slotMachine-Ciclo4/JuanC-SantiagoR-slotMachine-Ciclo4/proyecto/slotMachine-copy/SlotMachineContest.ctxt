@@ -1,0 +1,11 @@
+#BlueJ class context
+#Tue Oct 20 18:09:23 COT 2026
+comment0.target=SlotMachineContest
+comment0.text=\r\n Resuelve y simula el problema de la marat\u00F3n (Slot Machine Contest).\r\n
+comment1.params=n
+comment1.target=int solve(int)
+comment1.text=\r\n REQUISITO 14\: Resuelve el problema permaneciendo INVISIBLE.\r\n Utiliza la tragamonedas como 'testing tool' (SlotMachine(n), spin(wheel, steps), distinctSymbols()).\r\n @param n Numero de ruedas y simbolos\r\n @return Numero total de giros ejecutados para ganar\r\n
+comment2.params=n
+comment2.target=void simulate(int)
+comment2.text=\r\n REQUISITO 15\: Simula la solucion permaneciendo VISIBLE.\r\n @param n Numero de ruedas y simbolos\r\n
+numComments=3
